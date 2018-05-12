@@ -1,0 +1,29 @@
+_repo: Viimeinen-Algonquini_29081
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lilla, Felix
+    alias: Hansen, Jakob Otzen
+    birthdate: 1842
+    deathdate: 1905
+    gutenberg_agent_id: '33686'
+    url: http://www.gutenberg.org/2009/agents/33686
+description: ''
+gutenberg_issued: '2009-06-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29081'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'German fiction -- Translations into Finnish'
+- !lcsh 'Indians of North America -- Fiction'
+- !lcc 'PT'
+- !lcsh 'Short stories'
+title: 'Viimeinen Algonquini: Kertomus'
+url: http://www.gutenberg.org/ebooks/29081
